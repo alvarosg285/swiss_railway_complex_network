@@ -1,3 +1,6 @@
 pandas
 numpy
 ipykernel
+networkx
+matplotlib
+plotly
